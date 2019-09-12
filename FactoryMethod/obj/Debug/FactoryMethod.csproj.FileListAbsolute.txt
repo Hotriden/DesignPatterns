@@ -1,0 +1,6 @@
+C:\Users\blood\source\repos\Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\blood\source\repos\Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\blood\source\repos\Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\blood\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\blood\source\repos\Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

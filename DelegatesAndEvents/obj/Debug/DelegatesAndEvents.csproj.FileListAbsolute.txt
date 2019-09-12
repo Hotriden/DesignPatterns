@@ -1,0 +1,7 @@
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\blood\source\repos\Patterns\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

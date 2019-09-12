@@ -1,0 +1,6 @@
+C:\Users\blood\source\repos\Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\blood\source\repos\Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\blood\source\repos\Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\blood\source\repos\Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\blood\source\repos\Patterns\Prototype\obj\Debug\Prototype.pdb

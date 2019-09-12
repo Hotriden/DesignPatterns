@@ -1,0 +1,6 @@
+C:\Users\blood\source\repos\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\blood\source\repos\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\blood\source\repos\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\blood\source\repos\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\blood\source\repos\Patterns\Composite\obj\Debug\Composite.pdb
