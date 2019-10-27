@@ -8,17 +8,16 @@ namespace DelegatesAndEvents
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            var video = new Video() { Title = "Video 1" };
-            var videoEncoder = new VideoEncoder(); //publisher
-            var mailService = new MailService(); //subscriber
-            var messageService = new MessageService(); //another sub
+            Publisher publisher = new Publisher();
+            publisher.Show += Publisher_Show;
+            publisher.Moving("Carl", 10);
+        }
 
-            videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
-            videoEncoder.VideoEncoded += messageService.OnVideo;
-
-            videoEncoder.Encode(video);
+        private static void Publisher_Show(string message)
+        {
+            Console.WriteLine(message);
         }
     }
 }

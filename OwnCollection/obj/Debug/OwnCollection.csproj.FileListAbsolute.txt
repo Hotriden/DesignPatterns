@@ -1,0 +1,6 @@
+C:\Users\blood\source\repos\Patterns\OwnCollection\bin\Debug\OwnCollection.exe.config
+C:\Users\blood\source\repos\Patterns\OwnCollection\bin\Debug\OwnCollection.exe
+C:\Users\blood\source\repos\Patterns\OwnCollection\bin\Debug\OwnCollection.pdb
+C:\Users\blood\source\repos\Patterns\OwnCollection\obj\Debug\OwnCollection.csprojAssemblyReference.cache
+C:\Users\blood\source\repos\Patterns\OwnCollection\obj\Debug\OwnCollection.exe
+C:\Users\blood\source\repos\Patterns\OwnCollection\obj\Debug\OwnCollection.pdb
